@@ -2,7 +2,13 @@
 
 # Java
 
-## Loop through an array
+### initiate variables
+- initiate multiple variables:
+```java
+int sum, partialSum, totalSum;
+```
+
+###Loop through an array
 
 - for
 ```java
